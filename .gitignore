@@ -60,9 +60,11 @@ crashlytics-build.properties
 
 .DS_Store
 .idea/
-Hospital1/Assets/A200ZHY
-Hospital1/Assets/A200ZHY.meta
+/Test/Assets/A200ZHY
+/Test/Assets/A200ZHY.meta
 
 /Test/Library
 /Test/Library/Artifacts
+/Test/Library/PackageManager
+/Test/Library/com.unity.ide.rider
 /Test/Logs
