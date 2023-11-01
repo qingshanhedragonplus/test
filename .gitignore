@@ -68,3 +68,4 @@ crashlytics-build.properties
 /Test/Library/PackageManager
 /Test/Library/com.unity.ide.rider
 /Test/Logs
+/Test/Assembly-CSharp.csproj
