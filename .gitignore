@@ -9,3 +9,5 @@ Test/Assembly-CSharp.csproj
 Test/Google.Android.PerformanceTuner_gen.csproj
 Test/Main.csproj
 Test/Assets/A200ZHY
+Test/Assets/UGUI-Editor
+Test/Assets/UGUI-Editor.meta
