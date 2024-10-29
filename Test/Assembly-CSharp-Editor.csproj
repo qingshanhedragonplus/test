@@ -46,9 +46,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\UGUI-Editor\Editor\CustomInspectors.cs" />
-    <Compile Include="Assets\UGUI-Editor\Editor\FindReferences.cs" />
     <Compile Include="Assets\UGUI-Editor\Editor\SceneEditor.cs" />
     <Compile Include="Assets\UGUI-Editor\Editor\PrefabWin.cs" />
+    <Compile Include="Assets\_test\Editor\PreviewRenderEditor.cs" />
+    <Compile Include="Assets\UGUI-Editor\Editor\FindReferences.cs" />
+    <Compile Include="Assets\_test\Editor\PreviewRenderWindow.cs" />
+    <Compile Include="Assets\Editor\ReferenceImage.cs" />
     <Reference Include="UnityEngine">
       <HintPath>D:\Unity\2022.3.20f1c1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
@@ -855,6 +858,22 @@
     <ProjectReference Include="Assembly-CSharp.csproj">
       <Project>{8dbc13a5-7d6a-c5d6-eebe-d27cf600d276}</Project>
       <Name>Assembly-CSharp</Name>
+    </ProjectReference>
+    <ProjectReference Include="spine-unity-examples.csproj">
+      <Project>{311b6c65-2c30-5966-603e-58bad30d8ab9}</Project>
+      <Name>spine-unity-examples</Name>
+    </ProjectReference>
+    <ProjectReference Include="spine-unity-examples-editor.csproj">
+      <Project>{d2bb92bc-1d7d-51c2-6463-59bff990aaff}</Project>
+      <Name>spine-unity-examples-editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="spine-unity.csproj">
+      <Project>{a461a1de-23e7-8655-88e9-77780f650fe7}</Project>
+      <Name>spine-unity</Name>
+    </ProjectReference>
+    <ProjectReference Include="spine-unity-editor.csproj">
+      <Project>{f7be7cb1-0720-3ed9-049a-76f16812c84c}</Project>
+      <Name>spine-unity-editor</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
