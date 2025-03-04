@@ -1,0 +1,76 @@
+
+ear2.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ear3
+  rotate: false
+  xy: 573, 5
+  size: 93, 121
+  orig: 93, 121
+  offset: 0, 0
+  index: -1
+ear4
+  rotate: true
+  xy: 1, 1
+  size: 63, 78
+  orig: 63, 78
+  offset: 0, 0
+  index: -1
+earstud1
+  rotate: false
+  xy: 263, 20
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+earstud1_2
+  rotate: false
+  xy: 213, 2
+  size: 7, 10
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+earstud1_shadow
+  rotate: true
+  xy: 213, 13
+  size: 51, 49
+  orig: 53, 52
+  offset: 1, 1
+  index: -1
+earstud2
+  rotate: false
+  xy: 155, 7
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+earstud2_1
+  rotate: false
+  xy: 263, 2
+  size: 16, 17
+  orig: 34, 56
+  offset: 18, 0
+  index: -1
+earstud2_shadow
+  rotate: false
+  xy: 80, 1
+  size: 74, 63
+  orig: 76, 67
+  offset: 1, 1
+  index: -1
+nieziA
+  rotate: false
+  xy: 1, 96
+  size: 571, 30
+  orig: 571, 30
+  offset: 0, 0
+  index: -1
+nieziB
+  rotate: false
+  xy: 1, 65
+  size: 571, 30
+  orig: 571, 30
+  offset: 0, 0
+  index: -1

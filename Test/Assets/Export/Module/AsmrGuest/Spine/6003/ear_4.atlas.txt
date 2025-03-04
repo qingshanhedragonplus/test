@@ -1,0 +1,55 @@
+
+ear_4.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JJZ1
+  rotate: false
+  xy: 50, 334
+  size: 544, 55
+  orig: 544, 55
+  offset: 0, 0
+  index: -1
+JJZ2
+  rotate: false
+  xy: 1, 278
+  size: 542, 55
+  orig: 542, 55
+  offset: 0, 0
+  index: -1
+dian
+  rotate: false
+  xy: 1, 343
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+doudou1
+  rotate: true
+  xy: 595, 299
+  size: 90, 119
+  orig: 90, 119
+  offset: 0, 0
+  index: -1
+gg
+  rotate: false
+  xy: 1, 1
+  size: 376, 276
+  orig: 430, 318
+  offset: 43, 26
+  index: -1
+mask
+  rotate: false
+  xy: 715, 282
+  size: 113, 107
+  orig: 339, 177
+  offset: 2, 1
+  index: -1
+zang
+  rotate: false
+  xy: 544, 101
+  size: 299, 180
+  orig: 299, 180
+  offset: 0, 0
+  index: -1

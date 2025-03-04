@@ -1,0 +1,97 @@
+
+2ear_9.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+erduo_zhong_0
+  rotate: false
+  xy: 969, 791
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+erduo_zhong_1
+  rotate: false
+  xy: 394, 152
+  size: 76, 74
+  orig: 76, 74
+  offset: 0, 0
+  index: -1
+erduo_zhong_2
+  rotate: false
+  xy: 484, 513
+  size: 458, 309
+  orig: 458, 309
+  offset: 0, 0
+  index: -1
+erduo_zhong_5
+  rotate: true
+  xy: 912, 144
+  size: 317, 108
+  orig: 317, 108
+  offset: 0, 0
+  index: -1
+nong_1
+  rotate: true
+  xy: 470, 18
+  size: 165, 95
+  orig: 165, 95
+  offset: 0, 0
+  index: -1
+nong_10
+  rotate: false
+  xy: 0, 0
+  size: 180, 104
+  orig: 180, 104
+  offset: 0, 0
+  index: -1
+nong_3
+  rotate: false
+  xy: 237, 79
+  size: 157, 147
+  orig: 157, 147
+  offset: 0, 0
+  index: -1
+nong_5
+  rotate: false
+  xy: 0, 104
+  size: 176, 117
+  orig: 176, 117
+  offset: 0, 0
+  index: -1
+nong_7
+  rotate: false
+  xy: 0, 221
+  size: 237, 142
+  orig: 237, 142
+  offset: 0, 0
+  index: -1
+nong_9
+  rotate: false
+  xy: 237, 226
+  size: 237, 137
+  orig: 237, 137
+  offset: 0, 0
+  index: -1
+shou_4
+  rotate: false
+  xy: 484, 183
+  size: 428, 330
+  orig: 428, 330
+  offset: 0, 0
+  index: -1
+shou_5
+  rotate: false
+  xy: 0, 363
+  size: 484, 459
+  orig: 484, 459
+  offset: 0, 0
+  index: -1
+xian
+  rotate: false
+  xy: 942, 461
+  size: 27, 361
+  orig: 27, 361
+  offset: 0, 0
+  index: -1

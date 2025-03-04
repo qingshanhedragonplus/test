@@ -1,0 +1,76 @@
+
+2ear_7.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DD
+  rotate: true
+  xy: 1, 49
+  size: 198, 261
+  orig: 198, 261
+  offset: 0, 0
+  index: -1
+T1
+  rotate: true
+  xy: 358, 7
+  size: 115, 105
+  orig: 125, 118
+  offset: 9, 12
+  index: -1
+T2
+  rotate: false
+  xy: 489, 141
+  size: 97, 106
+  orig: 109, 121
+  offset: 11, 8
+  index: -1
+T3
+  rotate: true
+  xy: 569, 39
+  size: 101, 94
+  orig: 109, 108
+  offset: 7, 14
+  index: -1
+YAN
+  rotate: false
+  xy: 1, 13
+  size: 32, 35
+  orig: 34, 37
+  offset: 1, 1
+  index: -1
+YIN
+  rotate: false
+  xy: 263, 4
+  size: 94, 118
+  orig: 96, 121
+  offset: 1, 2
+  index: -1
+s_T1
+  rotate: true
+  xy: 263, 123
+  size: 124, 115
+  orig: 125, 118
+  offset: 0, 0
+  index: -1
+s_T2
+  rotate: false
+  xy: 379, 133
+  size: 109, 114
+  orig: 109, 121
+  offset: 0, 1
+  index: -1
+s_T3
+  rotate: true
+  xy: 464, 24
+  size: 108, 104
+  orig: 109, 108
+  offset: 0, 1
+  index: -1
+t
+  rotate: true
+  xy: 1, 1
+  size: 11, 112
+  orig: 11, 112
+  offset: 0, 0
+  index: -1

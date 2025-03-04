@@ -1,0 +1,167 @@
+
+tonsil.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B1
+  rotate: true
+  xy: 2862, 1086
+  size: 443, 434
+  orig: 443, 434
+  offset: 0, 0
+  index: -1
+B2
+  rotate: false
+  xy: 2418, 655
+  size: 443, 389
+  orig: 443, 389
+  offset: 0, 0
+  index: -1
+BAN01
+  rotate: false
+  xy: 2881, 1695
+  size: 335, 342
+  orig: 335, 342
+  offset: 0, 0
+  index: -1
+BG_1
+  rotate: false
+  xy: 2, 35
+  size: 1720, 280
+  orig: 1720, 280
+  offset: 0, 0
+  index: -1
+BTT_L
+  rotate: true
+  xy: 2418, 1046
+  size: 483, 442
+  orig: 483, 442
+  offset: 0, 0
+  index: -1
+BTT_R
+  rotate: false
+  xy: 2418, 1531
+  size: 461, 506
+  orig: 461, 506
+  offset: 0, 0
+  index: -1
+H1
+  rotate: true
+  xy: 1724, 2
+  size: 641, 750
+  orig: 641, 750
+  offset: 0, 0
+  index: -1
+H2
+  rotate: true
+  xy: 1511, 645
+  size: 1392, 768
+  orig: 1392, 768
+  offset: 0, 0
+  index: -1
+HOU
+  rotate: true
+  xy: 2, 317
+  size: 1720, 768
+  orig: 1720, 884
+  offset: 0, 58
+  index: -1
+JIA1
+  rotate: true
+  xy: 2281, 655
+  size: 1382, 135
+  orig: 1382, 135
+  offset: 0, 0
+  index: -1
+JIA2
+  rotate: true
+  xy: 1396, 635
+  size: 1402, 113
+  orig: 1402, 113
+  offset: 0, 0
+  index: -1
+JS01
+  rotate: true
+  xy: 2881, 1543
+  size: 150, 180
+  orig: 150, 180
+  offset: 0, 0
+  index: -1
+JS02
+  rotate: false
+  xy: 772, 334
+  size: 198, 217
+  orig: 198, 217
+  offset: 0, 0
+  index: -1
+JS03
+  rotate: true
+  xy: 3063, 1629
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+JS05
+  rotate: false
+  xy: 1127, 345
+  size: 182, 206
+  orig: 182, 206
+  offset: 0, 0
+  index: -1
+JS06
+  rotate: true
+  xy: 1582, 527
+  size: 116, 122
+  orig: 116, 122
+  offset: 0, 0
+  index: -1
+JS07
+  rotate: true
+  xy: 3063, 1564
+  size: 63, 59
+  orig: 63, 59
+  offset: 0, 0
+  index: -1
+JS08
+  rotate: true
+  xy: 3124, 1571
+  size: 56, 53
+  orig: 56, 53
+  offset: 0, 0
+  index: -1
+KUO1
+  rotate: true
+  xy: 1311, 348
+  size: 203, 176
+  orig: 203, 176
+  offset: 0, 0
+  index: -1
+KUO2
+  rotate: false
+  xy: 1396, 563
+  size: 184, 70
+  orig: 184, 70
+  offset: 0, 0
+  index: -1
+SHE
+  rotate: true
+  xy: 772, 553
+  size: 1484, 622
+  orig: 1484, 1088
+  offset: 0, 20
+  index: -1
+XI
+  rotate: true
+  xy: 972, 343
+  size: 208, 153
+  orig: 208, 153
+  offset: 0, 0
+  index: -1
+gold
+  rotate: true
+  xy: 1489, 325
+  size: 200, 198
+  orig: 200, 198
+  offset: 0, 0
+  index: -1

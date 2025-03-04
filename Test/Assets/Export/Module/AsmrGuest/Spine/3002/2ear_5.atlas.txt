@@ -1,0 +1,132 @@
+
+2ear_5.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B1S
+  rotate: true
+  xy: 305, 4
+  size: 44, 52
+  orig: 45, 54
+  offset: 1, 0
+  index: -1
+B1X
+  rotate: true
+  xy: 71, 0
+  size: 12, 21
+  orig: 13, 21
+  offset: 1, 0
+  index: -1
+B2
+  rotate: false
+  xy: 804, 30
+  size: 62, 78
+  orig: 69, 78
+  offset: 7, 0
+  index: -1
+B2NY
+  rotate: true
+  xy: 0, 5
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+DING
+  rotate: false
+  xy: 357, 29
+  size: 87, 19
+  orig: 87, 19
+  offset: 0, 0
+  index: -1
+MASK1
+  rotate: true
+  xy: 610, 30
+  size: 78, 194
+  orig: 80, 200
+  offset: 2, 1
+  index: -1
+MASK2
+  rotate: true
+  xy: 1038, 54
+  size: 129, 116
+  orig: 129, 117
+  offset: 0, 1
+  index: -1
+QZ1
+  rotate: true
+  xy: 0, 39
+  size: 983, 242
+  orig: 983, 242
+  offset: 0, 0
+  index: -1
+QZ2
+  rotate: true
+  xy: 242, 48
+  size: 974, 278
+  orig: 974, 278
+  offset: 0, 0
+  index: -1
+QZ3
+  rotate: true
+  xy: 977, 53
+  size: 55, 53
+  orig: 57, 54
+  offset: 0, 1
+  index: -1
+SHOU1
+  rotate: false
+  xy: 520, 389
+  size: 566, 633
+  orig: 566, 633
+  offset: 0, 0
+  index: -1
+SHOU2
+  rotate: false
+  xy: 1038, 183
+  size: 608, 206
+  orig: 608, 206
+  offset: 0, 0
+  index: -1
+SHOU3
+  rotate: false
+  xy: 520, 108
+  size: 518, 281
+  orig: 518, 281
+  offset: 0, 0
+  index: -1
+YY
+  rotate: true
+  xy: 520, 16
+  size: 92, 90
+  orig: 94, 95
+  offset: 1, 4
+  index: -1
+Z1
+  rotate: false
+  xy: 44, 7
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+ZANG
+  rotate: false
+  xy: 71, 12
+  size: 234, 27
+  orig: 234, 28
+  offset: 0, 0
+  index: -1
+ZHU
+  rotate: false
+  xy: 866, 49
+  size: 56, 59
+  orig: 56, 60
+  offset: 0, 1
+  index: -1
+ZHUZHU
+  rotate: true
+  xy: 922, 49
+  size: 59, 55
+  orig: 60, 55
+  offset: 0, 0
+  index: -1

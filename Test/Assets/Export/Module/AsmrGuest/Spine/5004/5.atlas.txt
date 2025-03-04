@@ -1,0 +1,202 @@
+
+5.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2B
+  rotate: true
+  xy: 750, 164
+  size: 244, 162
+  orig: 246, 164
+  offset: 1, 1
+  index: -1
+2F
+  rotate: false
+  xy: 499, 160
+  size: 250, 189
+  orig: 252, 191
+  offset: 1, 1
+  index: -1
+2decayed
+  rotate: false
+  xy: 1013, 491
+  size: 63, 73
+  orig: 66, 77
+  offset: 1, 4
+  index: -1
+2hole
+  rotate: true
+  xy: 195, 1
+  size: 97, 93
+  orig: 97, 93
+  offset: 0, 0
+  index: -1
+2toothpaste
+  rotate: false
+  xy: 707, 10
+  size: 161, 149
+  orig: 161, 149
+  offset: 0, 0
+  index: -1
+3F1
+  rotate: false
+  xy: 917, 671
+  size: 220, 125
+  orig: 222, 138
+  offset: 1, 1
+  index: -1
+3F2
+  rotate: true
+  xy: 1074, 802
+  size: 79, 76
+  orig: 79, 76
+  offset: 0, 0
+  index: -1
+3decayed
+  rotate: true
+  xy: 938, 459
+  size: 105, 74
+  orig: 105, 85
+  offset: 0, 0
+  index: -1
+3hole
+  rotate: false
+  xy: 790, 679
+  size: 126, 86
+  orig: 127, 99
+  offset: 1, 13
+  index: -1
+3toothpaste
+  rotate: true
+  xy: 397, 1
+  size: 158, 119
+  orig: 158, 119
+  offset: 0, 0
+  index: -1
+4F
+  rotate: true
+  xy: 1074, 882
+  size: 141, 137
+  orig: 143, 139
+  offset: 1, 1
+  index: -1
+4decayed
+  rotate: false
+  xy: 289, 3
+  size: 107, 95
+  orig: 108, 134
+  offset: 1, 39
+  index: -1
+4hole
+  rotate: false
+  xy: 603, 667
+  size: 107, 98
+  orig: 107, 98
+  offset: 0, 0
+  index: -1
+4toothpaste
+  rotate: false
+  xy: 938, 565
+  size: 104, 105
+  orig: 104, 105
+  offset: 0, 0
+  index: -1
+blue-light
+  rotate: true
+  xy: 499, 350
+  size: 313, 187
+  orig: 315, 189
+  offset: 1, 1
+  index: -1
+drill
+  rotate: true
+  xy: 325, 160
+  size: 863, 173
+  orig: 863, 173
+  offset: 0, 0
+  index: -1
+drill-head
+  rotate: true
+  xy: 325, 125
+  size: 34, 70
+  orig: 36, 72
+  offset: 1, 1
+  index: -1
+fill
+  rotate: true
+  xy: 195, 99
+  size: 924, 129
+  orig: 924, 129
+  offset: 0, 0
+  index: -1
+fill-head
+  rotate: false
+  xy: 499, 664
+  size: 103, 359
+  orig: 105, 361
+  offset: 1, 1
+  index: -1
+gingiva2
+  rotate: true
+  xy: 517, 6
+  size: 153, 189
+  orig: 153, 189
+  offset: 0, 0
+  index: -1
+gingiva3
+  rotate: false
+  xy: 1039, 6
+  size: 83, 171
+  orig: 83, 171
+  offset: 0, 0
+  index: -1
+gingiva4
+  rotate: true
+  xy: 869, 17
+  size: 146, 169
+  orig: 146, 169
+  offset: 0, 0
+  index: -1
+paste
+  rotate: false
+  xy: 711, 671
+  size: 78, 94
+  orig: 78, 94
+  offset: 0, 0
+  index: -1
+regular
+  rotate: true
+  xy: 1, 23
+  size: 1000, 193
+  orig: 1000, 193
+  offset: 0, 0
+  index: -1
+tooth1
+  rotate: false
+  xy: 603, 766
+  size: 254, 257
+  orig: 256, 259
+  offset: 1, 1
+  index: -1
+tooth2
+  rotate: false
+  xy: 687, 409
+  size: 250, 257
+  orig: 250, 257
+  offset: 0, 0
+  index: -1
+tooth3
+  rotate: true
+  xy: 858, 797
+  size: 226, 215
+  orig: 228, 217
+  offset: 1, 1
+  index: -1
+tooth4
+  rotate: false
+  xy: 913, 178
+  size: 203, 230
+  orig: 205, 232
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,300 @@
+
+foot.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blister1
+  rotate: true
+  xy: 1777, 830
+  size: 51, 77
+  orig: 51, 77
+  offset: 0, 0
+  index: -1
+blister2
+  rotate: false
+  xy: 1987, 1060
+  size: 48, 76
+  orig: 48, 77
+  offset: 0, 0
+  index: -1
+blood1
+  rotate: false
+  xy: 1207, 1622
+  size: 102, 131
+  orig: 102, 131
+  offset: 0, 0
+  index: -1
+blood2
+  rotate: false
+  xy: 1098, 1436
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+deadskin1
+  rotate: false
+  xy: 808, 981
+  size: 130, 48
+  orig: 145, 56
+  offset: 15, 3
+  index: -1
+deadskin2
+  rotate: true
+  xy: 734, 978
+  size: 51, 73
+  orig: 57, 81
+  offset: 6, 7
+  index: -1
+deadskin3
+  rotate: true
+  xy: 1149, 991
+  size: 56, 122
+  orig: 56, 122
+  offset: 0, 0
+  index: -1
+deadskin4
+  rotate: true
+  xy: 1671, 812
+  size: 69, 105
+  orig: 69, 105
+  offset: 0, 0
+  index: -1
+dirty
+  rotate: false
+  xy: 1874, 1285
+  size: 154, 338
+  orig: 166, 347
+  offset: 6, 5
+  index: -1
+fester
+  rotate: false
+  xy: 1146, 1401
+  size: 103, 42
+  orig: 103, 42
+  offset: 0, 0
+  index: -1
+foot
+  rotate: false
+  xy: 1, 612
+  size: 616, 1349
+  orig: 616, 1352
+  offset: 0, 3
+  index: -1
+hand3
+  rotate: false
+  xy: 618, 1361
+  size: 331, 533
+  orig: 331, 533
+  offset: 0, 0
+  index: -1
+hand4
+  rotate: true
+  xy: 1, 1
+  size: 610, 790
+  orig: 610, 790
+  offset: 0, 0
+  index: -1
+medicine
+  rotate: true
+  xy: 950, 1375
+  size: 519, 147
+  orig: 519, 147
+  offset: 0, 0
+  index: -1
+mud
+  rotate: true
+  xy: 1231, 1773
+  size: 121, 39
+  orig: 121, 39
+  offset: 0, 0
+  index: -1
+nail1
+  rotate: true
+  xy: 1098, 1754
+  size: 140, 132
+  orig: 141, 133
+  offset: 1, 0
+  index: -1
+nail2
+  rotate: false
+  xy: 1553, 811
+  size: 117, 70
+  orig: 117, 70
+  offset: 0, 0
+  index: -1
+nail3
+  rotate: false
+  xy: 1856, 836
+  size: 132, 69
+  orig: 132, 69
+  offset: 0, 0
+  index: -1
+pus1
+  rotate: true
+  xy: 967, 982
+  size: 65, 110
+  orig: 65, 110
+  offset: 0, 0
+  index: -1
+pus2
+  rotate: true
+  xy: 1874, 1071
+  size: 65, 112
+  orig: 65, 114
+  offset: 0, 0
+  index: -1
+scab1
+  rotate: true
+  xy: 1098, 1484
+  size: 101, 145
+  orig: 101, 145
+  offset: 0, 0
+  index: -1
+shabu1
+  rotate: true
+  xy: 1874, 1624
+  size: 337, 161
+  orig: 337, 161
+  offset: 0, 0
+  index: -1
+shabu2
+  rotate: false
+  xy: 1636, 149
+  size: 244, 302
+  orig: 244, 302
+  offset: 0, 0
+  index: -1
+shabu3
+  rotate: true
+  xy: 1553, 882
+  size: 164, 302
+  orig: 164, 302
+  offset: 0, 0
+  index: -1
+swollen
+  rotate: false
+  xy: 967, 1048
+  size: 237, 326
+  orig: 255, 384
+  offset: 0, 36
+  index: -1
+tool1
+  rotate: true
+  xy: 618, 1895
+  size: 66, 691
+  orig: 68, 691
+  offset: 0, 0
+  index: -1
+tool10
+  rotate: false
+  xy: 1616, 452
+  size: 357, 358
+  orig: 357, 358
+  offset: 0, 0
+  index: -1
+tool10_2
+  rotate: false
+  xy: 618, 1030
+  size: 348, 330
+  orig: 348, 331
+  offset: 0, 1
+  index: -1
+tool2
+  rotate: true
+  xy: 792, 346
+  size: 105, 843
+  orig: 106, 845
+  offset: 1, 2
+  index: -1
+tool3
+  rotate: false
+  xy: 1553, 1047
+  size: 146, 914
+  orig: 146, 914
+  offset: 0, 0
+  index: -1
+tool4
+  rotate: false
+  xy: 1700, 1054
+  size: 173, 907
+  orig: 173, 907
+  offset: 0, 0
+  index: -1
+tool5
+  rotate: true
+  xy: 618, 811
+  size: 163, 934
+  orig: 163, 934
+  offset: 0, 0
+  index: -1
+tool7
+  rotate: false
+  xy: 1856, 906
+  size: 137, 147
+  orig: 137, 147
+  offset: 0, 0
+  index: -1
+tool7_2
+  rotate: false
+  xy: 1874, 1137
+  size: 137, 147
+  orig: 137, 147
+  offset: 0, 0
+  index: -1
+tool8
+  rotate: false
+  xy: 618, 656
+  size: 997, 154
+  orig: 1005, 166
+  offset: 5, 5
+  index: -1
+tool9
+  rotate: true
+  xy: 1310, 975
+  size: 986, 158
+  orig: 990, 164
+  offset: 1, 5
+  index: -1
+unguent1
+  rotate: true
+  xy: 1078, 983
+  size: 64, 70
+  orig: 65, 70
+  offset: 1, 0
+  index: -1
+unguent2
+  rotate: false
+  xy: 1271, 1857
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+unguent3
+  rotate: false
+  xy: 1098, 1586
+  size: 108, 167
+  orig: 108, 167
+  offset: 0, 0
+  index: -1
+unguent4
+  rotate: false
+  xy: 618, 978
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+worm1
+  rotate: false
+  xy: 1244, 1534
+  size: 44, 87
+  orig: 44, 87
+  offset: 0, 0
+  index: -1
+worm2
+  rotate: true
+  xy: 1146, 1444
+  size: 39, 109
+  orig: 39, 109
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+ear3.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+earhole1
+  rotate: false
+  xy: 1, 59
+  size: 65, 63
+  orig: 65, 67
+  offset: 0, 4
+  index: -1
+earhole2
+  rotate: false
+  xy: 1, 1
+  size: 56, 57
+  orig: 56, 58
+  offset: 0, 0
+  index: -1
+earhole3
+  rotate: true
+  xy: 58, 21
+  size: 37, 34
+  orig: 39, 36
+  offset: 0, 2
+  index: -1
+earhole4
+  rotate: true
+  xy: 93, 30
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+pus1
+  rotate: false
+  xy: 67, 64
+  size: 33, 58
+  orig: 33, 58
+  offset: 0, 0
+  index: -1
+pus2
+  rotate: false
+  xy: 101, 90
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1

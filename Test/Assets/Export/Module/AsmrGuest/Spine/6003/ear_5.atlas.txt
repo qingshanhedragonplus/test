@@ -1,0 +1,76 @@
+
+ear_5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chong1
+  rotate: false
+  xy: 293, 430
+  size: 127, 222
+  orig: 127, 222
+  offset: 0, 0
+  index: -1
+chong2
+  rotate: false
+  xy: 364, 803
+  size: 111, 217
+  orig: 111, 217
+  offset: 0, 0
+  index: -1
+dian2
+  rotate: false
+  xy: 55, 1
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+diani1
+  rotate: false
+  xy: 55, 20
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+mask1
+  rotate: true
+  xy: 1, 2
+  size: 41, 28
+  orig: 41, 28
+  offset: 0, 0
+  index: -1
+mask2
+  rotate: true
+  xy: 30, 8
+  size: 35, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+qianzi1
+  rotate: false
+  xy: 1, 195
+  size: 565, 151
+  orig: 565, 151
+  offset: 0, 0
+  index: -1
+qianzi2
+  rotate: false
+  xy: 1, 44
+  size: 566, 150
+  orig: 566, 150
+  offset: 0, 0
+  index: -1
+yinzi1
+  rotate: false
+  xy: 1, 653
+  size: 362, 367
+  orig: 362, 367
+  offset: 0, 0
+  index: -1
+yinzi2
+  rotate: true
+  xy: 1, 347
+  size: 305, 291
+  orig: 305, 291
+  offset: 0, 0
+  index: -1

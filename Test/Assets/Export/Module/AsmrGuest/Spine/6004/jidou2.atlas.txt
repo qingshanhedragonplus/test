@@ -1,0 +1,62 @@
+
+jidou2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tool1
+  rotate: false
+  xy: 22, 111
+  size: 701, 44
+  orig: 701, 44
+  offset: 0, 0
+  index: -1
+dou2
+  rotate: false
+  xy: 844, 55
+  size: 105, 100
+  orig: 105, 100
+  offset: 0, 0
+  index: -1
+dou2dd
+  rotate: false
+  xy: 1, 137
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+zang1
+  rotate: true
+  xy: 724, 65
+  size: 90, 119
+  orig: 90, 119
+  offset: 0, 0
+  index: -1
+zang2_1
+  rotate: false
+  xy: 1, 7
+  size: 121, 103
+  orig: 144, 127
+  offset: 13, 19
+  index: -1
+zang2_2
+  rotate: true
+  xy: 362, 1
+  size: 109, 120
+  orig: 133, 143
+  offset: 13, 18
+  index: -1
+zang2_3
+  rotate: true
+  xy: 123, 3
+  size: 107, 118
+  orig: 132, 142
+  offset: 14, 18
+  index: -1
+zang2_4
+  rotate: false
+  xy: 242, 2
+  size: 119, 108
+  orig: 145, 133
+  offset: 7, 10
+  index: -1
