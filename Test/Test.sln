@@ -9,9 +9,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spine-unity-examples", "spi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spine-unity-editor", "spine-unity-editor.csproj", "{f7be7cb1-0720-3ed9-049a-76f16812c84c}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{6fba28b7-4abb-b966-57a2-597cad6a31b0}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spine-unity-examples-editor", "spine-unity-examples-editor.csproj", "{d2bb92bc-1d7d-51c2-6463-59bff990aaff}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{6fba28b7-4abb-b966-57a2-597cad6a31b0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,10 +26,10 @@ Global
 		{311b6c65-2c30-5966-603e-58bad30d8ab9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{f7be7cb1-0720-3ed9-049a-76f16812c84c}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{f7be7cb1-0720-3ed9-049a-76f16812c84c}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6fba28b7-4abb-b966-57a2-597cad6a31b0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6fba28b7-4abb-b966-57a2-597cad6a31b0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{d2bb92bc-1d7d-51c2-6463-59bff990aaff}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{d2bb92bc-1d7d-51c2-6463-59bff990aaff}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6fba28b7-4abb-b966-57a2-597cad6a31b0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6fba28b7-4abb-b966-57a2-597cad6a31b0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
