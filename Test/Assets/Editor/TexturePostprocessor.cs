@@ -5,6 +5,7 @@ public class TexturePostprocessor : AssetPostprocessor
 {
     void OnPreprocessTexture()
     {
+        // 获取当前纹理导入器
         var importer = (TextureImporter)assetImporter;
         
         // 通用设置：所有图片设为Sprite模式
