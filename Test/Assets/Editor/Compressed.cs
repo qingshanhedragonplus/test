@@ -1,10 +1,9 @@
 using UnityEditor;
 using UnityEngine;
-using System.Collections.Generic;
 
-public class Compressed : EditorWindow
+public class Compressed : MonoBehaviour
 {
-    private static TextureImporter importer = null;
+    private static TextureImporter importer = null;//纹理导入器
     
     [MenuItem("Assets/图片压缩格式/6x6", false, 102)]
     static void Compress_6()
@@ -45,27 +44,26 @@ public class Compressed : EditorWindow
     static void SetCompress(TextureImporter importer, string platform, 
         TextureImporterFormat format, TextureCompressionQuality quality)
     {
-        List<string> processedAssets = new List<string>();
         foreach (var obj in Selection.objects)
         {
-            if (!(obj is Texture2D)) continue;
+            if (!(obj is Texture2D)) //跳过非图片文件
+                continue;
 
-            string path = AssetDatabase.GetAssetPath(obj);
-            importer = AssetImporter.GetAtPath(path) as TextureImporter;
+            string path = AssetDatabase.GetAssetPath(obj);//记录当前文件路径
+            importer = AssetImporter.GetAtPath(path) as TextureImporter;//获取path路径资源
 
             if (importer != null)
             {
-                TextureImporterPlatformSettings settings = importer.GetPlatformTextureSettings(platform);
+                TextureImporterPlatformSettings settings = importer.GetPlatformTextureSettings(platform);//指定平台
                 settings.overridden = true;
                 settings.format = format;
                 settings.compressionQuality = (int)quality;
                 importer.SetPlatformTextureSettings(settings);
 
-                EditorUtility.SetDirty(importer);
-                importer.SaveAndReimport();
-                processedAssets.Add(path);
+                EditorUtility.SetDirty(importer);//标记为脏，表示修改已保存
+                importer.SaveAndReimport();//应用修改apply
             }
         }
-        AssetDatabase.Refresh();          
+        AssetDatabase.Refresh(); //刷新资源数据库         
     }    
 }
