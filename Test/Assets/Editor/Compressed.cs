@@ -5,9 +5,29 @@ public class Compressed : MonoBehaviour
 {
     private static TextureImporter importer = null;//纹理导入器
     
+    [MenuItem("Assets/图片压缩格式/常规", false, 103)]
+    static void Compress_rgb32()
+    {
+        /*SetCompress(importer, "DefaultTexturePlatform", 
+            TextureImporterFormat.RGBA32, 
+            TextureCompressionQuality.Normal);*/
+
+        SetCompress(importer, "Android", 
+            TextureImporterFormat.RGBA32, 
+            TextureCompressionQuality.Normal);
+        
+        SetCompress(importer, "iPhone", 
+            TextureImporterFormat.RGBA32, 
+            TextureCompressionQuality.Normal);
+    }
+    
     [MenuItem("Assets/图片压缩格式/6x6", false, 102)]
     static void Compress_6()
     {
+        /*SetCompress(importer, "DefaultTexturePlatform", 
+            TextureImporterFormat.RGBA32, 
+            TextureCompressionQuality.Normal);*/
+        
         SetCompress(importer, "Android", 
             TextureImporterFormat.ASTC_6x6, 
             TextureCompressionQuality.Best);
@@ -20,6 +40,10 @@ public class Compressed : MonoBehaviour
     [MenuItem("Assets/图片压缩格式/5x5", false, 101)]
     static void Compress_5()
     {
+        /*SetCompress(importer, "DefaultTexturePlatform", 
+            TextureImporterFormat.RGBA32, 
+            TextureCompressionQuality.Normal);*/
+        
         SetCompress(importer, "Android", 
             TextureImporterFormat.ASTC_5x5, 
             TextureCompressionQuality.Best);
@@ -32,6 +56,10 @@ public class Compressed : MonoBehaviour
     [MenuItem("Assets/图片压缩格式/4x4", false, 100)]
     static void Compress_4()
     {
+        /*SetCompress(importer, "DefaultTexturePlatform", 
+            TextureImporterFormat.RGBA32, 
+            TextureCompressionQuality.Normal);*/
+        
         SetCompress(importer, "Android", 
             TextureImporterFormat.ASTC_4x4, 
             TextureCompressionQuality.Best);
