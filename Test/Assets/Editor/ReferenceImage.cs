@@ -13,11 +13,10 @@ public class ReferenceImage : MonoBehaviour
     {
         if (Selection.activeObject != null)
         {
-            /*spr_path = EditorUtility.OpenFilePanel("加载外部图片", Application.dataPath, "");*/
-            spr_path = EditorUtility.OpenFilePanel("加载外部图片", Application.streamingAssetsPath, "");
+            spr_path = EditorUtility.OpenFilePanel("加载外部图片","", "");
 
-			if(spr_path.Length!=0)
-			{
+            if(spr_path.Length!=0)
+            {
                 Debug.Log("生成效果图");
                 
                 GameObject newObj = new GameObject("效果图");
@@ -25,7 +24,7 @@ public class ReferenceImage : MonoBehaviour
                 Image imageComponent = newObj.AddComponent<Image>();
                 
                 byte[] imgBuff = File.ReadAllBytes(spr_path);
-
+            
                 /*byte[] imgBuff = File.ReadAllBytes("Assets/DoctorUpgradeGift/Texture/UI_DoctorUpgradeGift_Arrow.png");*/
                 Texture2D texture2D = new Texture2D(1, 1);//默认尺寸是多少都无所谓
                 texture2D.LoadImage(imgBuff);
@@ -37,13 +36,13 @@ public class ReferenceImage : MonoBehaviour
                 Color Imagecolor =imageComponent.GetComponent<Image>().color;
                 Imagecolor.a = 0.7f;
                 imageComponent.GetComponent<Image>().color =Imagecolor;
-			}
+            }
             else
             {
-                Debug.Log("未选择图片，生成空节点");
-                GameObject newObj = new GameObject("Image");
+                Debug.Log("未选择图片");
+                /*GameObject newObj = new GameObject("Image");
                 newObj.transform.SetParent(Selection.activeTransform,false);
-                Image imageComponent = newObj.AddComponent<Image>();
+                Image imageComponent = newObj.AddComponent<Image>();*/
             }
         }
     }
