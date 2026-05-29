@@ -1,0 +1,25 @@
+功能描述：这是一个游戏主界面。点击关闭按钮关闭界面。有五个星星节点，节点下各有一个星星。有三个按钮，点击按钮分别打开对应数量的星星节点。点击一次Play按钮就关闭一个星星，所有打开的星星节点下的星星都关闭之后，Play按钮关闭，打开初始关闭的PlayGray按钮。点击Relive按钮可将已关闭的星星打开。
+
+层级结构与节点作用：
+- UIMain
+    - Root
+        - m_ColseBtn [Button](点击按钮关闭当前界面)
+        - NumGroup
+            - m_5_Btn [Button](点击按钮星星节点1-5打开)
+            - m_4_Btn [Button](点击按钮星星节点1-4打开)
+            - m_3_Btn [Button](点击按钮星星节点1-3打开)
+        - StarGroup
+            - m_StarBG1 [Image](星星节点1)
+                - m_Star1 [Image](星星1)
+            - m_StarBG2 [Image](星星节点2)
+                - m_Star2 [Image](星星2)
+            - m_StarBG3 [Image](星星节点3)
+                - m_Star3 [Image](星星3)
+            - m_StarBG4 [Image](星星节点4)
+                - m_Star4 [Image](星星4)
+            - m_StarBG5 [Image](星星节点5)
+                - m_Star5 [Image](星星5)
+        - ButtonGroup
+            - m_PlayBtn [Button](点击按钮关闭一个星星，当前打开的星星节点中所有星星都处于关闭状态的时候该节点关闭)
+            - m_PlayGrayBtn [Button]（关闭）(m_PlayByn处于关闭状态的时候打开该节点)
+            - m_ReliveBtn [Button](点击按钮可将所有星星打开)
